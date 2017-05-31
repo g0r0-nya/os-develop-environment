@@ -1,1 +1,1 @@
-# os-develop-environment
+# 「30日できる! OS自作入門」の Mac OS  用開発環境
